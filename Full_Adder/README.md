@@ -31,7 +31,7 @@ $$C_{out} = (A \cdot B) + (B \cdot C_{in}) + (A \cdot C_{in})$$
 The design was verified using Icarus Verilog and EDA Playground. The testbench iterates through all 8 possible input states, confirming the simulated outputs match the theoretical truth table.
 
 ### Waveform Output
-![Full Adder Simulation Waveform](./Full_adder_waveform.png)
+![Full Adder Simulation Waveform](./Full_Adder_waveform.png)
 
 ## Tools Used
 * **Language:** Verilog (SystemVerilog)
