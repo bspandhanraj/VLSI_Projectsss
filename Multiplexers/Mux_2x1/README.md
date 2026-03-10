@@ -12,7 +12,7 @@ The boolean equation governing this behavior is:
 $$Y = (\overline{S} \cdot D_0) + (S \cdot D_1)$$
 
 ### Block Diagram
-![2x1 MUX Block Diagram](./MUX_2x1_block_diagram)
+![2x1 MUX Block Diagram](./MUX_2x1_block_diagram.png)
 
 ### Truth Table
 | Selection ($S$) | Data 1 ($D_1$) | Data 0 ($D_0$) | Output ($Y$) |
@@ -30,7 +30,7 @@ The testbench verifies the routing logic by explicitly setting the unselected da
 ### Waveform Output
 *(Note: Upload your waveform screenshot here and ensure it is named mux2x1-waveform.png)*
 
-![2x1 MUX Simulation Waveform](./MUX_2x1_waveform)
+![2x1 MUX Simulation Waveform](./MUX_2x1_waveform.png)
 
 ## Tools Used
 * **Language:** Verilog (SystemVerilog)
