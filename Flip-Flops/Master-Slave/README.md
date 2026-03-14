@@ -19,7 +19,7 @@ The circuit operates on a full clock cycle process, effectively making the entir
 
 ### Logic Diagram
 
-
+![Master-Slave JK Flip-Flop Logic Diagram](./MS_diagram.jpeg)
 
 
 ## Simulation & Verification
@@ -31,7 +31,7 @@ The testbench validates the two-stage delay. If you look closely at the simulati
 
 ### Waveform Output
 
-
+![Master-Slave JK Flip-Flop Waveform](./MS_waveform.png)
 
 
 ## Tools Used
