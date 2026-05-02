@@ -32,7 +32,6 @@ The testbench validates the flip-flop by cycling through all possible input comb
 ### Waveform Output
 ![JK Flip-Flop Simulation Waveform](./JK_FF_waveform.png)
 
-*(Replace this placeholder image with your exported EPWave screenshot from EDA Playground.)*
 
 ## Tools Used
 * **Language:** Verilog (SystemVerilog)
